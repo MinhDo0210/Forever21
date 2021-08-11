@@ -33,7 +33,7 @@ export default function product() {
                             <Text style={styles1.Price1}>đ520,600</Text>
                             <Text style={styles1.Price2}>đ312,500</Text>
                         </View>
-                        <Text style={styles1.NamePro}>Reason Striped-Trim Swim Trunks TEST GIT</Text>
+                        <Text style={styles1.NamePro}>Reason Striped-Trim Swim Trunks</Text>
                     </View>
                     <View style={styles1.Vote}>
                         <View style={styles1.Star}>
